@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Stop Motion",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2025-12-08T16:03:33.983647Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stop Motion",
+      "artist": "Feed Me feat. HEIGHTS",
+      "has_synced": true,
+      "path": "select/01_Stop_Motion_Feed_Me_feat._HEIGHTS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stop Motion",
+      "artist": "Feed Me",
+      "has_synced": true,
+      "path": "select/02_Stop_Motion_Feed_Me.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stop Motion [ストップ・モーション]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/03_Stop_Motion_[ストップ・モーション]_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stop Motion",
+      "artist": "Suis La Lune",
+      "has_synced": true,
+      "path": "select/04_Stop_Motion_Suis_La_Lune.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stop Motion",
+      "artist": "尾崎亜美",
+      "has_synced": true,
+      "path": "select/05_Stop_Motion_尾崎亜美.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stop Motion",
+      "artist": "スフィア",
+      "has_synced": true,
+      "path": "select/06_Stop_Motion_スフィア.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stop Motion",
+      "artist": "JUJU",
+      "has_synced": true,
+      "path": "select/07_Stop_Motion_JUJU.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "A Stop Motion Bloom",
+      "artist": "Wax Tailor",
+      "has_synced": true,
+      "path": "select/08_A_Stop_Motion_Bloom_Wax_Tailor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stop Motion",
+      "artist": "Thorpe, Hayden",
+      "has_synced": true,
+      "path": "select/09_Stop_Motion_Thorpe,_Hayden.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stop Motion",
+      "artist": "Hayden Thorpe",
+      "has_synced": true,
+      "path": "select/10_Stop_Motion_Hayden_Thorpe.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stop Motion",
+      "artist": "Feed Me Heights",
+      "has_synced": true,
+      "path": "select/11_Stop_Motion_Feed_Me_Heights.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stop Motion",
+      "artist": "Kyros",
+      "has_synced": false,
+      "path": "select/12_Stop_Motion_Kyros.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stop Motion (ft Heights)",
+      "artist": "Feed Me",
+      "has_synced": true,
+      "path": "select/13_Stop_Motion_(ft_Heights)_Feed_Me.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stop Motion",
+      "artist": "Sphere",
+      "has_synced": true,
+      "path": "select/14_Stop_Motion_Sphere.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ストップモーション - Stop Motion",
+      "artist": "Ami Ozaki",
+      "has_synced": true,
+      "path": "select/15_ストップモーション_-_Stop_Motion_Ami_Ozaki.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "A Stop 'Motion Bloom",
+      "artist": "Wax Tailor",
+      "has_synced": true,
+      "path": "select/16_A_Stop_'Motion_Bloom_Wax_Tailor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stop Motion (feat. 魔界ノりりむ)",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_Stop_Motion_(feat._魔界ノりりむ)_ピーナッツくん.txt"
+    }
+  ]
+}
